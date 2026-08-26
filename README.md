@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0287-find-the-duplicate-number](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
