@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0027-remove-element) |
+| [0217-contains-duplicate](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
