@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
