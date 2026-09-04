@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0067-add-binary) |
 ## String Matching
 |  |
 | ------- |
@@ -85,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
