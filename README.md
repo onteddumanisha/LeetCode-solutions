@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2404-most-frequent-even-element](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/2404-most-frequent-even-element) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/onteddumanisha/LeetCode-solutions/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
